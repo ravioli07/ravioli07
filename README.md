@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 I am wanting to learn about GitHub
 
 -->
-I am wanting to learn about GitHub
+I am wanting to learn more about GitHub
